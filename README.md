@@ -1,4 +1,4 @@
-# Face Recognition Attendance Tracker 🎯
+# FaceRecognition_Attendance_masters-1 🎯
 
 ## 📌 Overview
 This project is a **Python-based Face Recognition Attendance Tracker** designed to automate attendance management using computer vision. By leveraging **OpenCV**, **NumPy**, and the **face_recognition** library, the system detects and recognizes faces in real-time and logs attendance into a database.  
