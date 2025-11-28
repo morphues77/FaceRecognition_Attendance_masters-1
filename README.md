@@ -56,6 +56,5 @@ The solution eliminates manual roll calls, improves accuracy, and provides a sca
 
 ---
 
-## 📜 License
-This project is licen
+
 
