@@ -46,7 +46,7 @@ The solution eliminates manual roll calls, improves accuracy, and provides a sca
 - **Error handling & robustness improvements**  
 - **GUI design for user-friendly interaction**
 
----
+----
 
 ## 📈 Future Enhancements
 - Cloud-based attendance storage  
